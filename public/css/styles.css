@@ -33,14 +33,9 @@ Primary use:	CV / Resume
 .color1 {
   color: #246CD0;
 }
-.color2 {
-  color: #3b658a;
-}
-.color3 {
-  color: #ce5f5f;
-}
+
 .font1 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'News Cycle', sans-serif;
 }
 .bold {
   font-weight: bold;
@@ -936,7 +931,7 @@ textarea.form-control {
 ! 14. Footer
 ========================================================== */
 #footer {
-  background: #ce5f5f;
+  background: #246CD0;
   color: #fff;
   padding-top: 17px;
   padding-bottom: 17px;

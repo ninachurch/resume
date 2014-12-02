@@ -48,7 +48,7 @@ Primary use:	CV / Resume
 }
 body {
   font-family: 'Open Sans', sans-serif;
-  background-image: url('../public/img/b5.jpg');
+  background-image: url('../img/b5.jpg');
   background-attachment: fixed;
   background-repeat: repeat-x;
   background-color: #3b658a;
@@ -101,12 +101,12 @@ h3 {
   padding-left: 6px;
 }
 .btn-default {
-  background: #3b658a;
+  background: #246CD0;
   color: #fafafa;
   border: #3b658a;
 }
 .btn-default:hover {
-  background: #194368 !important;
+  background: #808080 !important;
   color: #fafafa;
 }
 .btn-primary {
@@ -119,7 +119,7 @@ h3 {
   color: #fafafa;
 }
 .btn-secondary {
-  background: #ce5f5f;
+  background: #246CD0;
   border: #ce5f5f;
   color: #fafafa;
 }
@@ -230,7 +230,7 @@ p {
 #page-loader {
   width: 100%;
   height: 100%;
-  background: #2a5479;
+  background: #246CD0;
   color: #246CD0;
   position: fixed;
   top: 0;
@@ -295,12 +295,12 @@ p {
 .top-color1 {
   background: #246CD0;
 }
-.top-color2 {
+/*.top-color2 {
   background: #3b658a;
 }
 .top-color3 {
   background: #ce5f5f;
-}
+}*/
 /* ==========================================================
 ! 5. Side Menu
 ========================================================== */
@@ -502,7 +502,7 @@ p {
 .profile-pic img {
   width: 160px;
   height: 210px;
-  margin-top: 6px;
+  margin-top: 0px;
   border-radius: 100%;
   -moz-border-radius: 100%;
   -webkit-border-radius: 100%;

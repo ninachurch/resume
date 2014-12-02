@@ -541,27 +541,27 @@ p {
   background: #fafafa;
 }
 .timeline-progress {
-  background: url('../public/img/progress-bar.png') repeat-y center;
+  background: url('../img/progress-bar.png') repeat-y center;
   background-size: 400px 9px;
 }
 .timeline-point {
-  background: url('../public/img/progress-point.png') center center;
+  background: url('../img/progress-point.png') center center;
   background-size: 400px 500px;
 }
 .timeline-education {
-  background: url('../public/img/progress-education4.png') no-repeat center center;
+  background: url('../img/progress-education4.png') no-repeat center center;
   background-size: 400px 500px;
 }
 .timeline-work {
-  background: url('../public/img/progress-work3.png') no-repeat center center;
+  background: url('../img/progress-work3.png') no-repeat center center;
   background-size: 400px 500px;
 }
 .timeline-mail {
-  background: url('../public/img/progress-mail3.png') no-repeat center center;
+  background: url('../img/progress-mail3.png') no-repeat center center;
   background-size: 400px 500px;
 }
 .timeline-title {
-  background: url('../public/img/progress-section-title3.png') no-repeat center center;
+  background: url('../img/progress-section-title3.png') no-repeat center center;
   background-size: 400px 500px;
 }
 .timeline-margin .content-wrap {

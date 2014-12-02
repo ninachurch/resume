@@ -48,7 +48,7 @@ Primary use:	CV / Resume
 }
 body {
   font-family: 'Open Sans', sans-serif;
-  background-image: url('../img/b5.jpg');
+  background-image: url('../img/b5.jpeg');
   background-attachment: fixed;
   background-repeat: repeat-x;
   background-color: #3b658a;
@@ -497,7 +497,7 @@ p {
   border: 5px solid #246CD0;
   overflow: hidden;
   margin: 0 auto;
-  background: #fafafa;
+  background: #6F9FE1;
 }
 .profile-pic img {
   width: 160px;
@@ -648,14 +648,14 @@ p {
   list-style: none;
 }
 .progress-bar {
-  background: #246CD0;
+  background: #6F9FE1;
   width: 20%;
 }
 .progress-bar-2 {
-  background: #3b658a;
+  background: #246CD0;
 }
 .progress-bar-3 {
-  background: #ce5f5f;
+  background: #083F8B;
 }
 /* ==========================================================
 ! 11. Section: Portfolio
@@ -748,7 +748,7 @@ p {
   display: inline-block;
   height: 30px;
   width: 40px;
-  background: #3b658a;
+  background: #246CD0;
   color: #fafafa;
   text-align: center;
   line-height: 30px;
@@ -760,7 +760,7 @@ p {
 .bx-prev:hover,
 .bx-next:hover {
   color: #fff;
-  background: #083257;
+  background: #6F9FE1;
 }
 /* ==========================================================
 ! 12. Section: Contact

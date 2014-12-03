@@ -48,6 +48,7 @@ Primary use:	CV / Resume
 }
 body {
   font-family: 'News Cycle', sans-serif;
+  font-size: 16px;
   background-image: url('../img/b7.jpeg');
   background-attachment: fixed;
   background-repeat: repeat-x;
